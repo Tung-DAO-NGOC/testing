@@ -1,1 +1,1 @@
-This is the first comiit
+This is the first commit
